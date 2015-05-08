@@ -6,7 +6,6 @@
 
 #### Init
 
-setwd("C:/Users/kerby/Documents/R_Projects/EDA/ExData_Plotting1")
 Sys.setlocale("LC_TIME", "C") #Enable to show the weekdays in English
 
 ### Load Data and adjust formats
